@@ -11,12 +11,14 @@ My experiments learning and implementing ChatGPT function calling.
 - We then pass the result to chatgpt as a message.
 - ChatGPT then creates a new output message that gets shown to the user.
 
+  <br>
+
 ## Experiments
+
+- Exp_1 - Create a simple python chatgpt function calling example<br>
+https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp_1-Simple-python-function-calling-example
+
 <br>
-
-- Exp_1<br>
-https://www.youtube.com/watch?v=DwbCDBcA2m4
-
 
 ## Resources
 
