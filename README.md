@@ -6,7 +6,7 @@ My experiments learning and implementing ChatGPT function calling.
 - ChatGPT does not call any functions.
 - We define a function to do something e.g. add two numbers.
 - We tell chatgpt that the function exists, what it does and what inputs it needs.
-- ChatGPT gives us the input that's needed to call the function.
+- When the user asks chatgpt to add two numbers, ChatGPT outputs a message that contains the input that's needed to call the function.
 - We take this input and use it to call the function and get the result.
 - We then pass the result to chatgpt as a message.
 - ChatGPT then creates a new output message that gets shown to the user.
