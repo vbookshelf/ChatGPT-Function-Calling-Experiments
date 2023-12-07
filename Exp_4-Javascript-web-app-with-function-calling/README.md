@@ -1,4 +1,4 @@
-## Exp_4 - Javascript ChatGPT web app with function calling
+## Exp_4 - Build a Javascript ChatGPT web app with function calling
 <br>
 
 ### Objective
