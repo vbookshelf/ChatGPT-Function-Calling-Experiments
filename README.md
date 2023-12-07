@@ -21,6 +21,9 @@ https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp
 - Exp_2 - Mimic database call to retrieve student info<br>
 https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp_2-Retrieving-student-info-mimic-database-call
 
+- Exp_3 - Combine ChatGPT and Dalle 3 by using Function Calling<br>
+https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp_3-Combining-chatgpt-and-dalle3-using-function-calling
+
 <br>
 
 ## Resources
