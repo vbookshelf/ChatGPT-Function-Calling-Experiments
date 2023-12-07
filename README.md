@@ -3,6 +3,11 @@ My experiments learning and implementing ChatGPT function calling.
 
 <br>
 
+<img src="https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/blob/main/images/teacher1.png" width="250"></img>
+<i></i><br>
+
+<br>
+
 - ChatGPT does not call any functions.
 - We define a function to do something e.g. add two numbers.
 - We tell chatgpt that the function exists, what it does and what inputs it needs.
