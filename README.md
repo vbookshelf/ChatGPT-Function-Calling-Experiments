@@ -3,7 +3,7 @@ My experiments learning and implementing ChatGPT function calling.
 
 <br>
 
-<img src="https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/blob/main/images/teacher1.png" width="250"></img>
+<img src="https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/blob/main/images/robot.jpg" width="450"></img>
 <i></i><br>
 
 <br>
