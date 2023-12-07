@@ -40,6 +40,6 @@ https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp
 (This tutorial shows a simple example of how functions are used with ChatGPT.)
 https://www.youtube.com/watch?v=DwbCDBcA2m4
 
-- OpenAI "Create Chat Completion" docs
+- OpenAI "Create Chat Completion" docs<br>
 (Click on "Functions" to see the example chat completion code that includes info on the function.)<br>
 https://platform.openai.com/docs/api-reference/chat/create
