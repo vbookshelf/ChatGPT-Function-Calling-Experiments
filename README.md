@@ -18,6 +18,9 @@ My experiments learning and implementing ChatGPT function calling.
 - Exp_1 - Create a simple python chatgpt function calling example<br>
 https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp_1-Simple-python-function-calling-example
 
+- Exp_2 - Mimic database call to retrieve student info<br>
+https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp_2-Retrieving-student-info-mimic-database-call
+
 <br>
 
 ## Resources
