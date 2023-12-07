@@ -24,6 +24,9 @@ https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp
 - Exp_3 - Combine ChatGPT and Dalle 3 by using Function Calling<br>
 https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp_3-Combining-chatgpt-and-dalle3-using-function-calling
 
+- Exp_4 - Build a Javascript ChatGPT web app with function calling<br>
+https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp_4-Javascript-web-app-with-function-calling
+
 <br>
 
 ## Resources
