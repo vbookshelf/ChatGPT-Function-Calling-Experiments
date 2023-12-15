@@ -35,6 +35,9 @@ https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp
 - Exp_5 - Javascript ChatGPT web app with function calling that takes in all database data<br>
 https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp_5-Javascript-app-to-take-in%20-all-database-data
 
+- Exp_6 - Phoebe Emulator Chatbot<br>
+https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments/tree/main/Exp_6-Phoebe-emulator
+
 <br>
 
 ## Resources
