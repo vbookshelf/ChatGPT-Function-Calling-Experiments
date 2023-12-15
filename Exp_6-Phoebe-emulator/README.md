@@ -6,6 +6,7 @@
   
 ### Notes
 - This basic code creates natural and engaging responses from the chatbot. However, when more instructions are added to the system message (e.g. translate into thai) the responses are not as natural and not as aligned with the character of Phoebe.
+- Also, when instructions are added to the system message the bot starts to behave like an assistant.
 
 ### Resources
 - How to get ChatGPT to behave like a character from a series<br>
