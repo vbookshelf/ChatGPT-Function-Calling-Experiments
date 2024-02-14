@@ -15,6 +15,8 @@ My experiments learning and implementing ChatGPT function calling.
 - We take this input and use it to call the function and get the result.
 - We then pass the result to chatgpt as a message.
 - ChatGPT then creates a new output message that gets shown to the user.
+- There are three roles that go into the message history: user, assistant, function
+
 
   <br>
 
